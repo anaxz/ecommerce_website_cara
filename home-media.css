@@ -10,11 +10,7 @@
     }
   }
   
-  @media ((width > 890px) and (width < 1150px)) { 
-    /* .section-p1 {
-      padding: 40px 60px;
-    } */
-  
+  @media ((width > 890px) and (width < 1150px)) {   
     #hero {
       background-position: top 25% right 25%;
     }
@@ -28,11 +24,6 @@
       width: 36%;
       margin: 15px 20px;
     }
-  
-    /* #feature .fe-box {
-      width: 155px;
-      margin: 0 0 15px 0;
-    } */
   
     #banner {
       height: 26vh;
